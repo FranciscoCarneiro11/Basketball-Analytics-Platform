@@ -2,7 +2,8 @@
 
 An interactive data analysis dashboard built with Python and Streamlit, covering NBA statistics from 1947 to 2026. Developed as an academic project.
 
-![NBA Analytics Dashboard](docs/screenshot.png)
+![NBA Analytics Dashboard]
+<img width="1568" height="669" alt="image" src="https://github.com/user-attachments/assets/429cabae-3587-46f8-9191-8c57fad59214" />
 
 ---
 
